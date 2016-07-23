@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1469257717 source:c:\users\windy风乱\documents\a_spark hacker\c++\library 1.0\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<Book.h>
+	<Reader.h>
+	<BookDB.h>
+
+1469206960 source:c:\users\windy风乱\documents\a_spark hacker\c++\library 1.0\src\book.cpp
+	"Book.h"
+
+1469206960 c:\users\windy风乱\documents\a_spark hacker\c++\library 1.0\include\book.h
+	<string>
+	<iostream>
+
+1469031508 source:c:\users\windy风乱\documents\a_spark hacker\c++\library 1.0\src\reader.cpp
+	"Reader.h"
+	"Book.h"
+
+1469031543 c:\users\windy风乱\documents\a_spark hacker\c++\library 1.0\include\reader.h
+	<string>
+	<Book.h>
+	<vector>
+	<iostream>
+
+1469260035 source:c:\users\windy风乱\documents\a_spark hacker\c++\library 1.0\src\bookdb.cpp
+	"BookDB.h"
+
+1469257447 c:\users\windy风乱\documents\a_spark hacker\c++\library 1.0\include\bookdb.h
+	<Book.h>
+	<cstdlib>
+	<vector>
+	<fstream>
+
+1468920235 source:c:\users\windy风乱\documents\a_spark hacker\c++\library 1.0\src\booksdb.cpp
+	"BooksDB.h"
+
+1468920235 c:\users\windy风乱\documents\a_spark hacker\c++\library 1.0\include\booksdb.h
+
